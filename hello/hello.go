@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello from TAMEDIA world !!!")
+	fmt.Println(stringutil.Reverse("!!!dlrow AIDEMAT morf olleH))
 }
